@@ -12,7 +12,7 @@
     "buildcss": "npx tailwindcss -i ./public/styles/tailwind.css -o ./public/styles/style.css --minify"
   },
   "dependencies": {
-    "@extractus/oembed-extractor": "^4.0.2",
+    "@extractus/oembed-extractor": "^4.0.5",
     "@tryghost/admin-api": "^1.13.11",
     "cheerio": "^1.0.0-rc.12",
     "cookie-session": "^2.1.0",
